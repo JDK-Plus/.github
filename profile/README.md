@@ -55,4 +55,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://jdk.plus/img/jdk-plus.png" alt="drawing" style="width:100%;"/>	<img align="center" src="https://jdk.plus/img/jdk-plus.png" alt="drawing" style="width:100%;"/>
